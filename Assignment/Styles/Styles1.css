@@ -1,0 +1,26 @@
+table {
+	border-collapse: collapse;
+	width: 30%;
+}
+td, th {
+	border: 1px solid white;
+	border-style: solid;
+	border-width: medium;
+	text-align: left;
+	padding: 8px
+}
+	body{
+		background-image: url("bk_water2.jpg");
+	}
+h1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+p{
+	color:white;
+}
+table{
+	color: white;
+}

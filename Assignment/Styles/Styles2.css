@@ -1,0 +1,13 @@
+.photo img {
+    width: 400px; 
+    height: 300px; 
+}
+h3{
+	color: Blue;
+}
+body{
+	background-image: url(squares-aqua-gradient-abstract-4736.png);
+}
+h2 {
+	text-decoration: underline;
+}
